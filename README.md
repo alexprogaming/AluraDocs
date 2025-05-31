@@ -48,6 +48,9 @@ Este projeto me proporcionou o aprendizado prático sobre:
 ## 📁 Como rodar o projeto localmente
 
 ```bash
+# Conecta-se em um banco de dados
+Utilizado: Mongodb para o seu funcionamento
+
 # Clone o repositório
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
@@ -58,4 +61,4 @@ cd seu-repositorio
 npm install
 
 # Inicie o servidor
-npm start
+npm run dev
