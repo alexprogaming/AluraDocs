@@ -45,10 +45,6 @@ Este projeto me proporcionou o aprendizado prático sobre:
 - Manipulação e rastreamento de conexões em tempo real.
 - Integração entre **back-end e front-end** usando cookies e sockets.
 
-## 📷 Demonstração
-
-*Adicione aqui um GIF ou imagens da aplicação em funcionamento, se desejar.*
-
 ## 📁 Como rodar o projeto localmente
 
 ```bash
